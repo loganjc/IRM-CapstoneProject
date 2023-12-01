@@ -1,4 +1,3 @@
-import spacy
 from joblib import load
 import text_processing
 '''
