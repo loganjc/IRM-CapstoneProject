@@ -1,1 +1,0 @@
-Fine-tune the model by experimenting with different hyperparameters, such as learning rate, batch size, and model architecture. Use the validation set to guide this process.

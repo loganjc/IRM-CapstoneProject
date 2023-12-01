@@ -1,1 +1,0 @@
-Assess the model's performance using the validation and testing sets. Common evaluation metrics for intent recognition models include accuracy, precision, recall, F1-score, and confusion matrix.
